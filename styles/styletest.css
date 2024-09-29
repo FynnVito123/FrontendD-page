@@ -1,0 +1,16 @@
+button{
+    width: 10em;
+    aspect-ratio: 1;
+
+    color: white;
+    background-color: blue;
+    border: none;
+
+    transition: 1s;
+}
+
+button:hover{
+    rotate: 90deg;
+    background-color: crimson;
+    
+}

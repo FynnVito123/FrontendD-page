@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  https://www.nike.com/nl/
+  https://www.asos.com/nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Nike
-  <img src="images/Screenshots-eerste-pagina.png" width="375px" alt="Nike homepagina">
+  <img src="images/HomepaginaASOS.png" width="375px" alt="Asos homepagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
  Nike 
-  <img src="images/Screenshot-tweede-pagina.png" width="375px" alt="Herenschoenen nike">
+  <img src="images/KledingpaginaASOS.png" width="375px" alt="kleding pagina asos">
  
 </details>
 
@@ -53,10 +53,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Toegankelijkheidstest 1/2 (week 1)
 
 <details>
-  <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
+  <summary>We hebben de site die we willen gaan namaken getest met een screenreader om te kijken of die site teogankelijk is voor mensen met een beperking<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  Mijn bevindingen tijdens de test:
+  Ik heb zelf nog nooit eerder een screenreader gebruikt dus ik vond het heel erg moeilijk om door de site te navigeren. 
+  ik kon ook amper verstaan wat er werd gezegt door de screenreader omdat die dingen oplies waar ik voor mijn gevoel niet zoveel aan had.
+
+  op de site van nike zitten veel images en soortige videos, als ik hier kwam met de screenreader was ik meteen verdwaald omdat er niet duidelijk werd gemaakt dat ik darop zat.
 
 </details>
 
